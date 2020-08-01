@@ -7,24 +7,24 @@ Id,Name,Gender,Age,Email,Phone,Salary,Marital Status
 6,Gianna Allen,F,T,g.allen@randatmail.com,,36978.97,Married
 7,Alexander Casey,M,27,,0,-20581.57,Married
 8,Ellia*Thompson,Female,200,e.thompson@randatmail.com,0,-52535.12,
-9,Lilianna Ross,F,25,l.ross@randatmail.com,338507979,17900.18,Single
+9,Lilianna Ross,F,25,l.ross@randatmail.com,338507979,17900.18,
 10,Ned Williams,M,26,,801881510,37067.7,Single
-11,Frederick Kelley,,18,f.kelley@randatmail.com,381201742,,M
+11,Frederick Kelley,,18,,381201742,,M
 12,Sam Thompson,M,,myrandomemail,4555255393,22135.27,M
 13,Miley Reed,,,anotheremail,39698953460,19539.5,M
-14,Frederick Cunningham,M,20,f.cunningham@randatmail.com,64794273750,29871,S
+14,Frederick Cunningham,M,20,f.cunningham@randatmail.com,64794273750,29871,
 15,Stella Davis,F,,s.davis@randatmail.com,69471043060,-66028.57,S
-16,Hailey@Lloyd,F,A,h.lloyd@randatmail.com,5972097815,73050.5,Married
+16,Hailey@Lloyd,F,A,h.lloyd@randatmail.com,5972097815,73050.5,
 17,Fenton Bennett,M,21,f.bennett@randatmail.com,4726420874,14240.2,Married
-18,Alford Riley,M,0,a.riley@randatmail.com,3769857788,,
+18,,M,0,a.riley@randatmail.com,3769857788,,
 19,Isabella_Perkins,,0,i.perkins@randatmail.com,2784804371,99744.28,Married
 20,Alexia Adams,F,-1,a.adams@randatmail.com,2746477063,14304.23,Single
 21,Miller Henderson,M,-100,m.henderson@randatmail.com,5062720645,42602.95,Single
 22,Ellia Jones,F,28,e.jones@randatmail.com,8163479486,37263.32,Married
-23,Derek Morrison,M,22,d.morrison@randatmail.com,3806050737,42858.44,Married
+,Derek Morrison,M,22,d.morrison@randatmail.com,3806050737,42858.44,Married
 24,Jasmine Barrett,F,27,j.barrett@randatmail.com,2114643052,18304.84,Single
-25,Alan Russell,#,21,a.russell@randatmail.com,,19685.29,Single
-26,Paige Reed,@,23,p.reed@randatmail.com,4252159511,78171.95,Married
+25,Alan Russell,#,21,a.russell@randatmail.com,,19685.29,
+26,Paige Reed,@,,p.reed@randatmail.com,4252159511,78171.95,Married
 27,,!,23,f.hunt@randatmail.com,7236015426,94249.24,Married
 28,Miley Campbell,F,23,m.campbell@randatmail.com,2584587878,12487.51,Single
 29,Carl Ross,M,23,c.ross@randatmail.com,4984426259,19587.57,Single
