@@ -21,13 +21,13 @@ Id,Name,Gender,Age,Email,Phone,Salary,Marital Status
 20,Alexia Adams,F,-1,a.adams@randatmail.com,2746477063,14304.23,Single
 21,Miller Henderson,M,-100,m.henderson@randatmail.com,5062720645,42602.95,Single
 22,Ellia Jones,F,28,e.jones@randatmail.com,8163479486,37263.32,Married
-23,Derek Morrison,M,22,d.morrison@randatmail.com,3806050737,42858.44,Married
+23,Derek Morrison,M,22,3806050737,42858.44,Married
 24,Jasmine Barrett,F,27,j.barrett@randatmail.com,2114643052,18304.84,Single
 25,Alan Russell,#,21,a.russell@randatmail.com,,19685.29,Single
 26,Paige Reed,@,23,p.reed@randatmail.com,4252159511,78171.95,Married
 27,,!,23,f.hunt@randatmail.com,7236015426,94249.24,Married
 28,Miley Campbell,F,23,m.campbell@randatmail.com,2584587878,12487.51,Single
-29,Carl Ross,M,23,c.ross@randatmail.com,4984426259,19587.57,Single
+29,Carl Ross,M,23,c.ross@randatmail.com,4984426259,19587.57,
 30,Vanessa Taylor,F,29,v.taylor@randatmail.com,9148544967,80952.53,Married
 31,Kirsten Andrews,F,24,k.andrews@randatmail.com,9966036254,18107.24,Married
 32,Carina Craig,F,22,c.craig@randatmail.com,4534275797,80399.96,Married
