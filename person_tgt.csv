@@ -96,6 +96,6 @@ Id,Name,Gender,Age,Email,Phone,Salary,Marital Status
 95,Adison Williams,M,18,a.williams@randatmail.com,9893470486,42379.44,Single
 96,Arthur Myers,M,18,,,73672.48,Single
 97,Briony Andrews,F,21,b.andrews@randatmail.com,3042538909,48326.66,Single
-98,Maria Brooks,F,29,m.brooks@randatmail.com,4756464450,98873.85,Single
-99,Amelia Mason,F,26,a.mason@randatmail.com,6015031670,91524.83,Single
-100,Martin Brooks,M,30,m.brooks@randatmail.com,7613805682,97986.44,Married
+,Maria Brooks,F,29,m.brooks@randatmail.com,4756464450,98873.85,Single
+99,Amelia Mason,F,26,a.mason@randatmail.com,6015031670,91524.83,
+100,,M,30,,7613805682,97986.44,
